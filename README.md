@@ -35,8 +35,6 @@ location, and website. You can quickly manage your favorites by swiping left to 
                     <img width="260" alt="https://github.com/MohamedAboElsaud/GitHubFollowers/blob/main/Assets/Simulator%20Screenshot%20-%20iPhone%2013%20Pro%20Max%20-%202025-02-02%20at%2021.56.56-compressed.jpeg?raw=true">
                     <img width="260" alt="https://github.com/MohamedAboElsaud/GitHubFollowers/blob/main/Assets/Simulator%20Screenshot%20-%20iPhone%2013%20Pro%20Max%20-%202025-02-02%20at%2021.57.05-compressed.jpeg?raw=true">
                     <img width="260" alt="https://github.com/MohamedAboElsaud/GitHubFollowers/blob/main/Assets/Simulator%20Screenshot%20-%20iPhone%2013%20Pro%20Max%20-%202025-02-02%20at%2021.57.10-compressed.jpeg?raw=true">
-                    
-
 </div>
 
 # Gif/Demo
